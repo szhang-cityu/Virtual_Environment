@@ -89,7 +89,7 @@ pip install numpy
 <div style="text-align: center;">
 <img src="pics/11.png" alt="step11">
 </div>
-**太好了！We make it!** 🎉🎉🎉😄😄😄
+**太好了！We make it!**🎉🎉🎉😄😄😄
 
 ## 7. 退出/重启环境
 
