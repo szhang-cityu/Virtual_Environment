@@ -60,6 +60,7 @@ cd C:\Users\szhan\Desktop\Test
 <div style="text-align: center;">
 <img src="pics/8.png" alt="step8">
 </div>
+
 随后复制如下代码至命令行：
 ```powershell
  Set-ExecutionPolicy RemoteSigned
