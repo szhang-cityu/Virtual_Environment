@@ -11,6 +11,7 @@
 <div style="text-align: center;">
 <img src="pics/2.png" alt="step2">
 </div>
+
 在这里我写了个简单的代码，发现直接运行提示`No module named...`
 这非常不对劲啊非常不对劲😮😮😮
 原因是**此时默认使用安装python路径作为环境的**，其中没有任何包。我的包都在anaconda的python环境里。
@@ -63,6 +64,7 @@ cd C:\Users\szhan\Desktop\Test
 ```powershell
  Set-ExecutionPolicy RemoteSigned
 ```
+
 在弹出提示后输入`Y`，如图所示：
 <div style="text-align: center;">
 <img src="pics/9.png" alt="step9">
@@ -89,6 +91,7 @@ pip install numpy
 <div style="text-align: center;">
 <img src="pics/11.png" alt="step11">
 </div>
+
 **太好了！We make it!**🎉🎉🎉😄😄😄
 
 ## 7. 退出/重启环境
