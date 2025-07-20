@@ -43,15 +43,18 @@ cd C:\Users\szhan\Desktop\Test
 <div style="text-align: center;">
 <img src="pics/5.png" alt="step5">
 </div>
+
 可以看见我们的new_env环境出现在右边栏中。
 重新打开文件后在终端中运行：
 <div style="text-align: center;">
 <img src="pics/6.png" alt="step6">
 </div>
+
 如果是第一次操作有可能会出现以下情况，糟糕糟糕😭😭😭！
 <div style="text-align: center;">
 <img src="pics/7.png" alt="step7">
 </div>
+
 这是因为vscode的终端没有管理员权限激活环境。
 
 ## 5. 激活环境
@@ -75,6 +78,7 @@ cd C:\Users\szhan\Desktop\Test
 <div style="text-align: center;">
 <img src="pics/10.png" alt="step10">
 </div>
+
 点击后即可在终端中看到框中的代码（它是激活环境的代码命令），和激活好的绿色字“new_env"。
 
 ## 6. 最终运行
@@ -84,16 +88,18 @@ cd C:\Users\szhan\Desktop\Test
 cd cd C:\Users\szhan\Desktop\Test
 python test.py
 ```
+
 由于这是个空环境，直接运行仍会报错。安装包：
 ```powershell
 pip install numpy
 ```
+
 再次运行成功了。以上过程在下图中展现：
 <div style="text-align: center;">
 <img src="pics/11.png" alt="step11">
 </div>
 
-**太好了！We make it!**🎉🎉🎉😄😄😄
+**太好了！We make it!** 🎉🎉🎉😄😄😄
 
 ## 7. 退出/重启环境
 
