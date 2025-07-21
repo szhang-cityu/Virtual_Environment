@@ -85,7 +85,7 @@ cd C:\Users\szhan\Desktop\Test
 
 激活好环境我们就可以运行代码了，转到代码路径，并运行：
 ```powershell
-cd cd C:\Users\szhan\Desktop\Test
+cd C:\Users\szhan\Desktop\Test
 python test.py
 ```
 
